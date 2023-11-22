@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - Penn Alum
 - 🤔 On the lookout for **Data Scientist / Machine Learning Engineer / Data Analyst** positions
 - 📫 How to reach me: patrick.ytchou@gmail.com
+- [Resume](https://drive.google.com/file/d/14qHt5L5RZIkyI2o9Wp_RKZtY1Bb35rEi/view?usp=sharing)
 
 #### 🌐  Socials
 [![Linkedin: ytchou](https://img.shields.io/badge/-ytchou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/ytchou/)](https://www.linkedin.com/in/ytchou/)  [![Github: patrick-ytchou](https://img.shields.io/badge/ytchou-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/patrick-ytchou)](https://github.com/patrick-ytchou)
