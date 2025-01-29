@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 <img align='right' width="200">
 <p><em>Master of Science in Engineering, Data Science at <a href="https://www.upenn.edu/">The University of Pennsylvania</a> 
 </em></p>
+
+-->
+
 
 - Data Scientist at Parafin
 - Penn Alum
